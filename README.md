@@ -28,4 +28,4 @@
 
 + SSS+ HH
   + link : https://dl-ops-kgvn-garenanow-com.obs.ap-southeast-3.myhuaweicloud.com/hok/SkinLabel/T15Limited.png
-   + ID ; T15Limited
+   + ID : T15Limited
