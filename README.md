@@ -1,14 +1,13 @@
 # + lọc skin SS và SS/SSS/SSS+ hữu hạn
 + MẪU (Demo)
 + SS = {
-  "id skin": :tên skin",
-  "id skin": :tên skin",
+  "id skin": :"tên skin",
 }
 + SSS = {
-  "id skin": :tên skin",
+  "id skin": :"tên skin",
 }
 + Other = {
-  chứa các "id skin": :tên skin", ko thuộc trong SS và SSS
+  chứa các "id skin": :"tên skin", ko thuộc trong SS và SSS
 }
  + Danh sách link phân biệt skin SS và SS/SSS/SSS+ hữu hạn 
  + Dự vào link trong rarityIcon để tách và lưu vào file 
