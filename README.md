@@ -16,16 +16,16 @@
    + list_skin_arena.lq
 + SS
   + link : https://dl.ops.kgvn.garenanow.com/hok/SkinLabel/T3DirectSale.png
-   + T3DirectSale.png
+   + ID : T3DirectSale
 
 + SS HH
   + link : https://dl.ops.kgvn.garenanow.com/hok/SkinLabel/T3limited.png
-   + T3limited.png
+   + ID : T3limited
 
 + SSS HH
   + link : https://dl.ops.kgvn.garenanow.com/hok/SkinLabel/T2limited.png
-   + T2limited.png
+   + ID : T2limited
 
 + SSS+ HH
   + link : https://dl-ops-kgvn-garenanow-com.obs.ap-southeast-3.myhuaweicloud.com/hok/SkinLabel/T15Limited.png
-   + T15Limited.png
+   + ID ; T15Limited
