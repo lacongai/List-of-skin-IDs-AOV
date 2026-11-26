@@ -46,3 +46,14 @@
 + SSS+ HH
   + LINK : https://dl-ops-kgvn-garenanow-com.obs.ap-southeast-3.myhuaweicloud.com/hok/SkinLabel/T15Limited.png
    + ID : T15Limited
+
+# Các api AOV hỗ trợ khác
++ API Scan
+   + https://arena-scan-vn.vercel.app/api/info?account={name}&password={pass}
+   + Mẫu (Demo) cách dùng
+    + https://arena-scan-vn.vercel.app/api/info?account=naruto_ca&password=Taolahack1
+
++ API cập nhật thông tin, skin
+    + https://aov-archive.vercel.app/
+      + Lấy "id_skin": "name_skin“
+      + Tự động tải
